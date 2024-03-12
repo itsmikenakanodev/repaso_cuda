@@ -1,3 +1,10 @@
 D:/Programacion Paralela/grupal_main2/cmake-build-debug/CMakeFiles/grupal_main2.dir
+D:/Programacion Paralela/grupal_main2/cmake-build-debug/CMakeFiles/examen.dir
+D:/Programacion Paralela/grupal_main2/cmake-build-debug/CMakeFiles/grises.dir
+D:/Programacion Paralela/grupal_main2/cmake-build-debug/CMakeFiles/suma.dir
+D:/Programacion Paralela/grupal_main2/cmake-build-debug/CMakeFiles/espejo.dir
+D:/Programacion Paralela/grupal_main2/cmake-build-debug/CMakeFiles/rotar.dir
+D:/Programacion Paralela/grupal_main2/cmake-build-debug/CMakeFiles/bordes.dir
+D:/Programacion Paralela/grupal_main2/cmake-build-debug/CMakeFiles/mediana.dir
 D:/Programacion Paralela/grupal_main2/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/Programacion Paralela/grupal_main2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

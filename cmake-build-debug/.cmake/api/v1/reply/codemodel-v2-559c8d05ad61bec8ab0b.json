@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "grupal_main2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "bordes::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bordes-Debug-d78bf76dad4f38465dcf.json",
+					"name" : "bordes",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "espejo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-espejo-Debug-7a2a0678e0dd52b829cd.json",
+					"name" : "espejo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "examen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-examen-Debug-b30a0149eab520812ad0.json",
+					"name" : "examen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "grises::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-grises-Debug-b289cee2ccc4454469c1.json",
+					"name" : "grises",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "grupal_main2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-grupal_main2-Debug-6466c604145f07bdbaae.json",
+					"name" : "grupal_main2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mediana::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mediana-Debug-98fc58cbb3fd91217b4d.json",
+					"name" : "mediana",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rotar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rotar-Debug-71e803a51235beea2dbe.json",
+					"name" : "rotar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "suma::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-suma-Debug-4dfa38c72cd19b445a07.json",
+					"name" : "suma",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Programacion Paralela/grupal_main2/cmake-build-debug",
+		"source" : "D:/Programacion Paralela/grupal_main2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
